@@ -1,0 +1,16 @@
+h1{
+    font-size: xx-large;
+    color: blue;
+}
+
+.orderedList {
+    color: purple;
+}
+
+#nestedList {
+    color: crimson;
+}
+
+#firstBook {
+    color: hotpink;
+}
